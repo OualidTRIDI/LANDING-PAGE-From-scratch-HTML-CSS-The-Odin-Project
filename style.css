@@ -126,4 +126,14 @@ button {
 /* Section Three */
 .section-three {
   background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  padding: 50px 300px;
+}
+
+.quote-author {
+  color: #1f2937;
+  font-weight: bold;
+  text-align: right;
 }
