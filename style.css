@@ -5,6 +5,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #fff;
 }
 
 /* Header */
@@ -14,13 +15,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 16px 30px;
+  padding: 16px 80px;
 }
 
 .header-logo {
   font-family: hero;
   font-size: 24px;
-  font-weight: 800;
   color: #f9faf8;
 }
 
@@ -35,5 +35,46 @@ ul {
 a {
   text-decoration: none;
   color: #e5e7eb;
-  font-size: 13px;
+  font-size: 18px;
+}
+
+/* Section One */
+
+.section-one {
+  background-color: #1f2937;
+  display: flex;
+  padding: 40px 80px;
+  gap: 48px;
+}
+
+.section-one-title {
+  color: #f9faf8;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.subtext {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.placeholder {
+  background-color: #6d747d;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 700px;
+}
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 16px;
+  font-weight: bolder;
+  border-style: none;
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin-top: 20px;
 }
