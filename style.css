@@ -78,3 +78,52 @@ button {
   padding: 10px 30px;
   margin-top: 20px;
 }
+
+/* Section Two */
+
+.section-two {
+  color: #1f2937;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.section-two-title {
+  font-size: 36px;
+  font-weight: 800;
+  padding: 25px;
+}
+
+.gallery {
+  display: flex;
+  gap: 30px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-image {
+  height: 200px;
+  width: 200px;
+  border: #3882f6 4px solid;
+  border-radius: 10px;
+}
+
+.card-caption {
+  max-width: 200px;
+  color: #6d747d;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+/* Section Three */
+.section-three {
+  background-color: #e5e7eb;
+}
