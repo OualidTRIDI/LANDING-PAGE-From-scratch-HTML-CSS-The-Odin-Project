@@ -1,2 +1,5 @@
 # LANDING-PAGE-From-scratch-CSS-HTML-
-The Odin Project Foundataions (Flexbox Landing Page)
+
+The Odin Project Foundations (Flexbox Landing Page)
+
+PS: This template is not responsive
