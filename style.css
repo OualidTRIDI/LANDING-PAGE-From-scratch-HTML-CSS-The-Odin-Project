@@ -68,7 +68,7 @@ a {
   width: 700px;
 }
 
-button {
+#singup-section-one {
   background-color: #3882f6;
   color: #f9faf8;
   font-size: 16px;
@@ -136,4 +136,43 @@ button {
   color: #1f2937;
   font-weight: bold;
   text-align: right;
+}
+
+/* Section Four */
+
+.section-four {
+  background-color: #3882f6;
+  margin: 100px 150px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.section-four-left-side {
+  margin: 50px 0px 50px 0px;
+}
+
+.section-four-title {
+  color: #f9faf8;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.section-four-text {
+  color: #e5e7eb;
+  font-size: 20px;
+}
+
+#singup-section-four {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 16px;
+  font-weight: bolder;
+  border-color: #f9faf8;
+  border: #f9faf8 2px solid;
+  border-radius: 10px;
+  padding: 10px 40px;
 }
